@@ -21,6 +21,15 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
 ## Provided Mock-up Dashboard
-<p align="center">
+![mock up dashboard_atliq grands](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/ca0f2bca-9a1e-446c-9f7d-0b459423bde6)
+
+
+## Data Model
+
+
+## Overall Analysis View
+
+
+## More Insights
 
 
