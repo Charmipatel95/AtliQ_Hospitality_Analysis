@@ -23,6 +23,69 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Create a dashboard according to the mock-up provided by stakeholders. 
 - Create relevant insights that are not provided in the metric list/mock-up dashboard.
 
+### :open_file_folder: Dataset Understanding
+
+In simpler terms, here's what data we have available for analysis:
+Data set is mainly divided into two types of table namely:
+- **Dimension Tables**: These contain static information about customers and products
+- **Fact Tables**: These contain transactional data.
+
+ Let's understand the dataset: 
+ 
+- :date: **dim_date:**
+    - date: Dates in May, June, and July.
+    - mmm yy: Date in the format of mmm yy (month year).
+    - week no: Unique week number for each date.
+    - day_type: Indicates if the day is a Weekend or Weekday.
+
+- :hotel: **dim_hotels:**
+    - **7** distinct hotels
+    - **2** categories:
+       - Business
+       - Luxury
+   - **4** cities:
+     - Bangalore
+     -  Delhi
+     -  Mumbai
+     -  Hyderabad
+
+- 🚪🛏️ **dim_rooms:**
+    - **7** distinct hotels
+    - **2** categories:
+      - Business
+      - Luxury
+    - room_id: Type of rooms
+      - RT1
+      - RT2
+      - RT3
+      - RT4
+    - room_class: **4** Types of Room
+      - Standard
+      - Elite
+      - Premium
+      - Presidential
+
+- 📋 **fact_aggregated_bookings:**
+    - property_id:  Unique ID for each hotel
+    - check_in_date: Customer check-in dates
+    - room_category: Type of room
+    - successful_bookings: Successful room bookings for a specific date.
+    - capacity: Maximum room count available on a specific date.
+
+- 📝 **fact_bookings:**
+    - booking_id: Unique Booking ID for each customer. 
+    - property_id: Unique ID for each hotel.
+    - booking_date: Date the customer booked their room.
+    - check_in_date: Customer check-in date.
+    - check_out_date: Customer checkout date.
+    - no_guests: Number of guests in the room.
+    - room_category: Type of room. 
+    - booking_platform: Booking method
+    - ratings_given: Customer ratings for hotel services.
+    - booking_status: Booking status (Cancelled, Checked Out, No Show).
+    - revenue_generated: Amount generated from the booking.
+    - revenue_realized: Final revenue based on booking status (deductions for cancellations).
+
 ## :bar_chart: Provided Mock-up Dashboard
 ![mock up dashboard_atliq grands](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/ca0f2bca-9a1e-446c-9f7d-0b459423bde6)
 
