@@ -6,7 +6,7 @@
 
 :link: Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOWFlYWEwZDctN2NhYi00ZmUzLTg4ZmYtZWNiMDIwY2I3NmY1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-:link: Link to LinkedIn post 
+:link: Link to [LinkedIn post](https://www.linkedin.com/posts/charmi-patel-771815242_codebasicsanalyticschallenge-powerbi-hospitality-activity-7209182029580492801-6Z5k?utm_source=share&utm_medium=member_desktop)
 
 ## :memo: Problem statement
 
