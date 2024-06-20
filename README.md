@@ -94,19 +94,13 @@ Data set is mainly divided into two types of table namely:
 ![hospitality- data model](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/86499013-3273-45eb-9550-5ca3d5e80446)
 
 ## 📶Overall Analysis View
-
-https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/d4174be0-9102-4a26-88c6-763a3c670254
+https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/3afadcaa-c98e-40e9-b169-483e5658b88d
 
 ## :chart_with_downwards_trend: Home Page
-![homepage 1](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/1f53ca08-6b21-4bfe-9cd6-7cdad6f74e04)
-
-![hp 2](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/3207b755-840a-4912-89d5-ca827997bf9d)
+![modi- 1](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/2fab54e3-c619-48b8-b8f0-4cbd39d3839a)
 
 ## :chart_with_downwards_trend:	 More Insights
-
-![MI 1](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/5880933b-bf86-416e-a4c4-f01a8981fcf3)
-
-![mi 2](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/cee4342b-9094-4967-96e8-41766f16c35e)
+![modi-2](https://github.com/Charmipatel95/AtliQ_Hospitality_Analysis/assets/154671418/e41917da-29f5-4fe3-9b2b-386204e7dbe0)
 
 ## :mortar_board:	Learning from this Project 
 - It seems like many hotels have a common cancellation policy where guests can cancel their booking without any charge as long as it's done before three months prior to the booking date. However, if the cancellation happens after that timeframe, guests might incur a fee ranging from 60 to 90% of the total booking cost.
